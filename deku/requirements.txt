@@ -1,0 +1,6 @@
+tensorflow==2.2.0
+tflearn==0.3.2
+tqdm==4.41.0
+numpy==1.18.0
+opencv-python==4.4.0.46
+Keras==2.4.3

@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+name = "pypi"
+verify_ssl = false
+
+[requires]
+python_version = "3.6.9"
+
+[packages]
+tflearn = "*"
+tqdm = "*"
+numpy = "*"
+opencv-python = "*"
+keras = "*"
+flask = "*"
+requests = "*"
+
+[dev-packages]
+autopep8 = "*"

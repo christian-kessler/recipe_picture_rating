@@ -1,0 +1,23 @@
+*.log
+
+# pycache
+deku/__pycache__/*
+deku/app/__pycache__/*
+
+**/__pycache__/**
+*/__pycache__/*
+
+# migration
+deku/migrations/*
+
+# binaries
+.*pyc
+
+# Dev env
+deku/bin/*
+deku/include/*
+deku/lib/*
+deku/local/*
+deku/share/*
+
+
